@@ -1,0 +1,298 @@
+body
+{
+  font-family: 'Poppins' , sans-serif;;
+background-color:#1F2235;
+  color: #fff;
+}
+.media
+{
+  text-align: left;
+  padding: 5% 18%;
+}
+.hh
+{
+  text-align: left;
+    margin-top: 30px;
+          font-size: 20px;
+          font-weight: 700;
+
+}
+.mb
+{
+  padding-left: 10%;
+}
+.pl1
+{
+  text-align: left;
+}
+.nav-brand
+{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-style: bold;
+color: #fff;
+margin: 20px 10px;
+
+}
+.nav-item .nav-link
+{ font-style: bold;
+  font-family: 'Poppins', sans-serif;
+  margin: 20px 10px;
+    font-weight: 500;
+    color: #fff;
+    font-size: 18px;
+    padding-right: 0;
+  padding-left: 0;
+
+}
+.nav-link
+{
+  display: block;
+  padding: .5rem 1rem;
+
+}
+
+.ni .nl
+{
+ text-align: center;
+font-style: bold;
+  font-family: 'Poppins', sans-serif;
+  margin: 0px 10px;
+    font-weight: 500;
+    color: #fff;
+    font-size: 18px;
+
+    padding-right: 0;
+  padding-left: 0;
+
+}
+
+.nl
+{
+  display: block;
+  padding: .5rem 1rem;
+
+}
+
+
+.hr
+
+{
+   background-color: #ff4a57;
+width: 4%;
+  border: 1.5px solid  #ff4a57;;
+}
+.fm
+{
+  margin-top: 50px;
+      font-size: 58px;
+      font-weight: 700;
+      border-right: 5px solid transparent;
+}
+.ff
+{margin-top: 30px;
+      font-size: 30px;
+      font-weight: 700;
+
+}
+
+.h3
+{ text-align: left;
+  margin-top: 30px;
+        font-size: 20px;
+        font-weight: 700;
+
+}
+.pp1
+{
+  margin-top: 10px;
+
+
+      line-height: 1rem;
+  }
+.p
+{
+     font-size: 56px;
+    line-height: 40px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+
+.btn:hover{
+  background-color: #ff4a57;
+}
+.btn1:hover
+{
+  background-color: #ff4a57;
+}
+
+
+.btn
+{
+
+   border-radius:25px;
+  padding: 13px 40px;
+  border: 2px solid;
+  line-height:26px;
+border-color:rgb(255, 74, 87);
+}
+
+.btn1
+{ background-color: #1F2235;
+border: none;
+   border-radius:50px;
+  padding: 5px 40px;
+
+  line-height:26px;
+
+}
+
+
+
+.ex0
+{
+  background-color: #23263a;
+   padding: 100px 0 0 0;
+}
+.fs
+{
+  padding-right: 5%
+}
+
+
+
+.cc1
+{
+  text-align: left;
+  padding :5% 12%;
+}
+
+.ex3{
+
+    text-align: center;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+
+.ex4
+{
+background-color: #23263a;
+font-style:bold;
+     padding: 100px 0px 105px 0px;
+position: relative;
+   font-size: 1rem;
+   text-align: center;
+}
+
+.p1
+{
+
+  background-color: #23263a;
+font-style:bold;
+      padding: 100px 0px 105px 0px;
+position: relative;
+    font-size: 1rem;
+    text-align: center;
+}
+.p
+{
+    font-family: Poppinsital;
+    font-style: bold;
+  line-height: 26px;
+    font-weight: normal;
+    font-style: normal;
+    color: #dfdfdf;
+    font-size: 16px;
+}
+
+.pl
+{  text-align: center;
+    font-family: Poppinsital;
+    font-style: bold;
+  line-height: 26px;
+    font-weight: normal;
+    font-style: normal;
+    color: #dfdfdf;
+    font-size: 16px;
+}
+
+.ccc
+{
+  padding: 20px 35px;
+}
+
+
+.sub
+{
+  text-align: left;
+}
+
+
+
+
+
+
+.services1
+{
+  text-align: left;
+    color: #fff;
+}
+
+.cc
+{ padding: 5px; 18px;
+  background-color:  #23263a;
+  text-align: left;
+}
+
+.skills{
+  text-align: center;
+ font-size: 1rem;
+box-sizing: border-box;
+ background-color:  #3282b8;
+}
+
+
+
+
+
+
+
+#pricing
+{
+
+  padding: 100px;
+text-align: center;
+}
+.pc
+{
+  padding: 3% 2%;
+}
+.Contact-me
+{
+
+    background-color:#1F2235;
+  text-align: center;
+}
+
+textarea.form-control
+{ border:none;
+  background: #23263a;;
+}
+
+
+input.form-control {
+   border:none;
+  background: #23263a;;
+}
+
+
+
+
+
+
+
+
